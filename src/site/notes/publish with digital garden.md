@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/publish-with-digital-garden/"}
+{"dg-publish":true,"permalink":"/publish-with-digital-garden/","tags":["gardenEntry"]}
 ---
 
 # first note to publish
 here is the website help me
 
-[ppp-test](https://github.com/xiangyan66/ppp-test)
-[ppp-test](https://github.com/xiangyan66/ppp-test)
-[[]]
+https://garden_xiang/publish-with-digital-garden/
